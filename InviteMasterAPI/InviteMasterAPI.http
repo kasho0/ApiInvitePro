@@ -1,0 +1,6 @@
+@InviteMasterAPI_HostAddress = http://localhost:5136
+
+GET {{InviteMasterAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
